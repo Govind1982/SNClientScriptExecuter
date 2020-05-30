@@ -17,7 +17,7 @@ _This is used to execute client side script on ServiceNow.This is based on the i
 ![Menu](https://github.com/iamkalai/SNClientScriptExecuter/blob/master/doc/images/ClientScriptExecuter.png)
 
 - Write any client side script that you want.
-- To log any message on the page, use **log** function. (refer screenshot)
+- To log any message on the page, use **log** function (refer screenshot).
 
 ### License
 
